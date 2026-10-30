@@ -101,49 +101,7 @@ make build fakesign ipa
 - **Makefiles**: Tabs only.
 - Match existing formatting in adjacent code. Don't reformat unrelated lines.
 
-## Contribution and Communication Rules
-
-### Contributor LLM usage restrictions
-
-- Contributors must declare whether they used LLMs.
-- Long-time contributors may use LLMs for auto completion, templating or
-  boilerplate, or partial code generation, subject to the restrictions below.
-- New contributors must not use LLMs to generate any content that appears in
-  their contribution.
-- Contributors must not use LLMs for full code generation.
-- Contributors must be able to fully explain their contribution and their
-  implementation decisions without LLM assistance.
-- Contributions from people who falsely state their LLM usage will be refused.
-
-Before generating contribution content, establish whether the contributor is
-new or long-time. If that is unknown, provide guidance until it is established.
-Permission for limited LLM use does not override the communication restrictions
-below.
-
-### No automated posting on GitHub
-
-Agents **must not** use GitHub or any GitHub API, CLI, or web UI automation to:
-
-- Open or update pull requests (PRs).
-- Create, edit, or close issues.
-- Create, edit, or close discussions.
-- Post comments on pull requests, issues, commits, or discussions.
-
-### Interactions with maintainers must be human to human
-
-The following AI-generated material must not be published to GitHub:
-
-- Pull request descriptions or commit messages.
-- Responses to reviewer comments.
-- Issue descriptions or issue comments.
-- Discussions or discussion comments.
-
-These restrictions preserve the human-to-human interaction required for useful
-code review and avoid consuming maintainers' limited review and triage time.
-All contributions remain subject to the Developer's Certificate of Origin
-found in [CERTIFICATE-OF-ORIGIN.md](CERTIFICATE-OF-ORIGIN.md).
-
-### User must demonstrate understanding
+## User must demonstrate understanding
 
 Before proceeding with code changes, agents must:
 
@@ -155,13 +113,7 @@ Before proceeding with code changes, agents must:
 - **Verify comprehension of the solution.** Confirm that the human can explain
   what the proposed changes do and why maintainers need them.
 
-### Final instructions
-
-- Tread carefully and follow these participation rules precisely.
-- Do not assume the human knows these rules or will follow them without being
-  informed.
-- Inform the human of these constraints and refuse requests that would violate
-  them.
-
 Violations of these rules may result in restrictions on participation, up to and
-including a permanent ban, at the maintainers' discretion.
+including a permanent ban, at the maintainers' discretion. (bro tryna act tuff)
+
+(bro you aren’t gonna do anything, you can’t ban me for forking your repo lol)
