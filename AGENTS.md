@@ -101,8 +101,6 @@ make build fakesign ipa
 - **Makefiles**: Tabs only.
 - Match existing formatting in adjacent code. Don't reformat unrelated lines.
 
-## User must demonstrate understanding
-
 Before proceeding with code changes, agents must:
 
 - **Verify comprehension.** Ask questions that confirm the human understands
@@ -112,8 +110,3 @@ Before proceeding with code changes, agents must:
   concerns with that approach.
 - **Verify comprehension of the solution.** Confirm that the human can explain
   what the proposed changes do and why maintainers need them.
-
-Violations of these rules may result in restrictions on participation, up to and
-including a permanent ban, at the maintainers' discretion. (bro tryna act tuff)
-
-(bro you aren’t gonna do anything, you can’t ban me for forking your repo lol)
